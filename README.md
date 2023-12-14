@@ -23,3 +23,4 @@ Below is a table containing every mod, version, and a link to install any mod yo
 |LateCompany<br>`v1.0.6`|anormaltwig|[Thunderstore](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)|
 |YippeeMod<br>`v1.2.2`|sunnobunno|[Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)|
 |AdditionalSuits<br>`v1.1.0`|AlexCodesGames|[Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/)|
+|ShipLoot<br>`v1.0.0`|tinyhoot|[Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)|
