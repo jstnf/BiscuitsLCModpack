@@ -27,6 +27,8 @@ Below is a table containing every mod, version, and a link to install any mod yo
 |MaskedEnemyOverhaul<br>`v1.1.0`|HomelessGinger|[Thunderstore](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)|
 |Mimics<br>`v2.1.0`|x753|[Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)|
 |MoreCompany<br>`v1.7.2`|notnotnotswipez|[Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)<br>[Discord](https://discord.gg/cKa6sPBFZ9)|
+|PushCompany<br>`v1.2.0`|Midge|[Thunderstore](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)|
 |ShipLoot<br>`v1.0.0`|tinyhoot|[Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)|
 |Skinwalkers<br>`v2.0.1`|RugbugRedfern|[Thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)|
+|Teleporter Cooldown Reset<br>`v1.0.1`|Rattenbonkers|[Thunderstore](https://thunderstore.io/c/lethal-company/p/Rattenbonkers/Teleporter_Cooldown_Reset/)|
 |YippeeMod<br>`v1.2.2`|sunnobunno|[Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)|
