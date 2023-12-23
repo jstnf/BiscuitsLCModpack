@@ -13,25 +13,25 @@ Backup and delete your existing `config` and `plugins` folders located in your B
 ### Mod List
 Below is a table containing every mod, version, and a link to install any mod yourself. Some of these mods are custom configured, so I do recommend you grab the `config` files if you install the mods yourself!
 
-|Mod|Author|Link|
-|--|--|--|
-|AdditionalSuits<br>`v1.1.0`|AlexCodesGames|[Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/)|
-|AlwaysHearActiveWalkies<br>`v1.4.2`|Suskitech|[Thunderstore](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)|
-|BetterLethality<br>`v1.0.1`|VZP_Mods|[Thunderstore](https://thunderstore.io/c/lethal-company/p/VZP_Mods/BetterLethality/)|
-|CustomSounds<br>`v2.1.2`|Clementinise|[Thunderstore](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/)|
-|HidePlayerNames<br>`v1.0.2`|Monkeytype|[Thunderstore](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)|
-|LateCompany<br>`v1.0.6`|anormaltwig|[Thunderstore](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)|
-|LC API<br>`v2.1.2`|2018|[Thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)|
-|LCSoundTool<br>`v1.3.2`|noo00ob|[Thunderstore](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/)|
-|LethalClunk<br>`v1.1.1`|PanHouse|[Thunderstore](https://thunderstore.io/c/lethal-company/p/PanHouse/LethalClunk/)|
-|LethalPresents<br>`v1.0.1`|Azim|[Thunderstore](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)|
-|LethalRadiation<br>`v1.1.0`|gamehog44|[Thunderstore](https://thunderstore.io/c/lethal-company/p/gamehog44/LethalRadiation/)|
-|MaskedEnemyOverhaul<br>`v2.1.0`|HomelessGinger|[Thunderstore](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)|
-|Mimics<br>`v2.1.0`|x753|[Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)|
-|MoreCompany<br>`v1.7.2`|notnotnotswipez|[Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)|
-|MoreScreams<br>`v1.0.2`|egeadam|[Thunderstore](https://thunderstore.io/c/lethal-company/p/egeadam/MoreScreams/)|
-|PushCompany<br>`v1.2.0`|Midge|[Thunderstore](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)|
-|ShipLoot<br>`v1.0.0`|tinyhoot|[Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)|
-|Skinwalkers<br>`v2.0.1`|RugbugRedfern|[Thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)|
-|Teleporter Cooldown Reset<br>`v1.0.1`|Rattenbonkers|[Thunderstore](https://thunderstore.io/c/lethal-company/p/Rattenbonkers/Teleporter_Cooldown_Reset/)|
-|YippeeMod<br>`v1.2.2`|sunnobunno|[Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)|
+| Mod                                   | Author          | Link                                                                                                |
+|---------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------|
+| AdditionalSuits<br>`v1.1.0`           | AlexCodesGames  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/)          |
+| AlwaysHearActiveWalkies<br>`v1.4.2`   | Suskitech       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)       |
+| BetterLethality<br>`v1.0.1`           | VZP_Mods        | [Thunderstore](https://thunderstore.io/c/lethal-company/p/VZP_Mods/BetterLethality/)                |
+| CustomSounds<br>`v2.1.2`              | Clementinise    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/)               |
+| HidePlayerNames<br>`v1.0.2`           | Monkeytype      | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)              |
+| LateCompany<br>`v1.0.6`               | anormaltwig     | [Thunderstore](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)                 |
+| LC API<br>`v2.1.2`                    | 2018            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                             |
+| LCSoundTool<br>`v1.3.2`               | noo00ob         | [Thunderstore](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/)                      |
+| LethalClunk<br>`v1.1.1`               | PanHouse        | [Thunderstore](https://thunderstore.io/c/lethal-company/p/PanHouse/LethalClunk/)                    |
+| LethalPresents<br>`v1.0.1`            | Azim            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)                     |
+| LethalRadiation<br>`v1.1.1`           | gamehog44       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/gamehog44/LethalRadiation/)               |
+| MaskedEnemyOverhaul<br>`v2.1.0`       | HomelessGinger  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)      |
+| Mimics<br>`v2.1.0`                    | x753            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                             |
+| MoreCompany<br>`v1.7.2`               | notnotnotswipez | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)             |
+| MoreScreams<br>`v1.0.2`               | egeadam         | [Thunderstore](https://thunderstore.io/c/lethal-company/p/egeadam/MoreScreams/)                     |
+| PushCompany<br>`v1.2.0`               | Midge           | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)                       |
+| ShipLoot<br>`v1.0.0`                  | tinyhoot        | [Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)                       |
+| Skinwalkers<br>`v2.0.1`               | RugbugRedfern   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)               |
+| Teleporter Cooldown Reset<br>`v1.0.1` | Rattenbonkers   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rattenbonkers/Teleporter_Cooldown_Reset/) |
+| YippeeMod<br>`v1.2.2`                 | sunnobunno      | [Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)                    |
