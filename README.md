@@ -24,7 +24,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | LC API<br>`v3.0.1`                    | 2018            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                             |
 | LCSoundTool<br>`v1.4.0`               | noo00ob         | [Thunderstore](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/)                      |
 | LethalClunk<br>`v1.1.1`               | PanHouse        | [Thunderstore](https://thunderstore.io/c/lethal-company/p/PanHouse/LethalClunk/)                    |
-| LethalPresents<br>`v1.0.1`            | Azim            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)                     |
+| LethalPresents<br>`v1.0.3`            | Azim            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)                     |
 | LethalRadiation<br>`v1.1.1`           | gamehog44       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/gamehog44/LethalRadiation/)               |
 | MaskedEnemyOverhaul<br>`v2.1.0`       | HomelessGinger  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)      |
 | Mimics<br>`v2.2.1`                    | x753            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                             |
