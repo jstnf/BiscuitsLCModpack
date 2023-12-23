@@ -29,6 +29,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | MaskedEnemyOverhaul<br>`v2.1.0`       | HomelessGinger  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)      |
 | Mimics<br>`v2.2.1`                    | x753            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                             |
 | MoreCompany<br>`v1.7.2`               | notnotnotswipez | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)             |
+| MoreEmotes<br>`v1.2.2`                | Sligili         | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)                     |
 | MoreScreams<br>`v1.0.3`               | egeadam         | [Thunderstore](https://thunderstore.io/c/lethal-company/p/egeadam/MoreScreams/)                     |
 | PushCompany<br>`v1.2.0`               | Midge           | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)                       |
 | ShipLoot<br>`v1.0.0`                  | tinyhoot        | [Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)                       |
