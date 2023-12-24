@@ -28,6 +28,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | LethalRadiation<br>`v1.1.1`           | gamehog44       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/gamehog44/LethalRadiation/)               |
 | MaskedEnemyOverhaul<br>`v2.1.0`       | HomelessGinger  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)      |
 | Mimics<br>`v2.2.1`                    | x753            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                             |
+| More Emotes<br>`v1.2.2`               | Sligili         | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)                     |
 | MoreCompany<br>`v1.7.2`               | notnotnotswipez | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)             |
 | MoreScreams<br>`v1.0.3`               | egeadam         | [Thunderstore](https://thunderstore.io/c/lethal-company/p/egeadam/MoreScreams/)                     |
 | PushCompany<br>`v1.2.0`               | Midge           | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)                       |
