@@ -54,6 +54,11 @@
       "suitID": "8_Shirtless",
       "suitName": "Shirtless",
       "suitTexture": "Shirtless.png"
+    },
+    {
+      "suitID": "9_Thicc",
+      "suitName": "Thicc Suit",
+      "suitTexture": "ThickWoman.png"
     }
   ]
 }
