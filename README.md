@@ -19,7 +19,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | AlwaysHearActiveWalkies<br>`v1.4.3`   | Suskitech                  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)        |
 | BetterLethality<br>`v1.0.1`           | VZP_Mods                   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/VZP_Mods/BetterLethality/)                 |
 | CoilHeadStare<br>`v1.0.3`             | TwinDimensionalProductions | [Thunderstore](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) |
-| CompatibilityChecker<br>`v1.1.6`      | Ryokune                    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker/)                                                                                     |
+| CompatibilityChecker<br>`v1.1.6`      | Ryokune                    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker/)             |
 | CustomSounds<br>`v2.2.0`              | Clementinise               | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/)                |
 | HidePlayerNames<br>`v1.0.2`           | Monkeytype                 | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)               |
 | LateCompany<br>`v1.0.6`               | anormaltwig                | [Thunderstore](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)                  |
@@ -34,6 +34,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | MoreCompany<br>`v1.7.2`               | notnotnotswipez            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)              |
 | MoreScreams<br>`v1.0.3`               | egeadam                    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/egeadam/MoreScreams/)                      |
 | PushCompany<br>`v1.2.0`               | Midge                      | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)                        |
+| RouteRandom<br>`v1.2.2`               | stormytuna                 | [Thunderstore](https://thunderstore.io/c/lethal-company/p/stormytuna/RouteRandom/)                   |
 | ShipLoot<br>`v1.0.0`                  | tinyhoot                   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)                        |
 | Skinwalkers<br>`v2.0.1`               | RugbugRedfern              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)                |
 | Teleporter Cooldown Reset<br>`v1.0.1` | Rattenbonkers              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rattenbonkers/Teleporter_Cooldown_Reset/)  |
