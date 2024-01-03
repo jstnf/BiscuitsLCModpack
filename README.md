@@ -23,6 +23,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | CompatibilityChecker<br>`v1.1.6`      | Ryokune                    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker/)             |
 | CustomSounds<br>`v2.2.0`              | Clementinise               | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/)                |
 | DimmingFlashlights<br>`v1.0.1`        | blink9803                  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/blink9803/DimmingFlashlights/)             |
+| Dont Touch Me<br>`v1.2.0`             | Kittenji                   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Kittenji/Dont_Touch_Me/)                   |
 | HidePlayerNames<br>`v1.0.2`           | Monkeytype                 | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)               |
 | HookGenPatcher<br>`v0.0.5`            | Evaisa                     | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/)                    |
 | IsThisTheWayICame<br>`v1.0.2`         | Electric131                | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Electric131/IsThisTheWayICame/)            |
