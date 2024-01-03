@@ -20,6 +20,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | Backrooms<br>`v0.1.3`                    | Backrooms                  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)                      |
 | BetterLethality<br>`v1.0.1`              | VZP_Mods                   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/VZP_Mods/BetterLethality/)                 |
 | CoilHeadStare<br>`v1.0.3`                | TwinDimensionalProductions | [Thunderstore](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) |
+| ColourfulFlashlights<br>`v2.2.0`         | cubly                      | [Thunderstore](https://thunderstore.io/c/lethal-company/p/cubly/ColourfulFlashlights/)               |
 | CompatibilityChecker<br>`v1.1.6`         | Ryokune                    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker/)             |
 | CustomSounds<br>`v2.2.0`                 | Clementinise               | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/)                |
 | DimmingFlashlights<br>`v1.0.1`           | blink9803                  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/blink9803/DimmingFlashlights/)             |
@@ -46,5 +47,6 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | ShirtlessSuit<br>`v1.0.0`                | TeamClark                  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/TeamClark/ShirtlessSuit/)                  |
 | Skinwalkers<br>`v2.0.1`                  | RugbugRedfern              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)                |
 | Teleporter Cooldown Reset<br>`v1.0.1`    | Rattenbonkers              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rattenbonkers/Teleporter_Cooldown_Reset/)  |
+| TerminalApi<br>`v1.5.0`                  | NotAtomicBomb              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)                |
 | ThiccCompanyModelReplacement<br>`v1.1.1` | FoxGod                     | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FoxGod/ThiccCompanyModelReplacement/)      |
 | YippeeMod<br>`v1.2.2`                    | sunnobunno                 | [Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)                     |
