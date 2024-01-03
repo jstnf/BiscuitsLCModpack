@@ -49,6 +49,11 @@
       "suitID": "7_Black_Suit",
       "suitName": "Black Suit",
       "suitTexture": "7_Black_Suit.png"
+    },
+    {
+      "suitID": "8_Shirtless",
+      "suitName": "Shirtless",
+      "suitTexture": "Shirtless.png"
     }
   ]
 }

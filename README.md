@@ -36,6 +36,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | PushCompany<br>`v1.2.0`               | Midge                      | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)                        |
 | RouteRandom<br>`v1.2.2`               | stormytuna                 | [Thunderstore](https://thunderstore.io/c/lethal-company/p/stormytuna/RouteRandom/)                   |
 | ShipLoot<br>`v1.0.0`                  | tinyhoot                   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)                        |
+| ShirtlessSuit<br>`v1.0.0`             | TeamClark                  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/TeamClark/ShirtlessSuit/)                  |
 | Skinwalkers<br>`v2.0.1`               | RugbugRedfern              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)                |
 | Teleporter Cooldown Reset<br>`v1.0.1` | Rattenbonkers              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rattenbonkers/Teleporter_Cooldown_Reset/)  |
 | YippeeMod<br>`v1.2.2`                 | sunnobunno                 | [Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)                     |
