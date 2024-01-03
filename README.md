@@ -17,15 +17,18 @@ Below is a table containing every mod, version, and a link to install any mod yo
 |---------------------------------------|----------------------------|------------------------------------------------------------------------------------------------------|
 | AdditionalSuits<br>`v1.1.3`           | AlexCodesGames             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/)           |
 | AlwaysHearActiveWalkies<br>`v1.4.3`   | Suskitech                  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)        |
+| Backrooms<br>`v0.1.3`                 | Backrooms                  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)                      |
 | BetterLethality<br>`v1.0.1`           | VZP_Mods                   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/VZP_Mods/BetterLethality/)                 |
 | CoilHeadStare<br>`v1.0.3`             | TwinDimensionalProductions | [Thunderstore](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) |
 | CompatibilityChecker<br>`v1.1.6`      | Ryokune                    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker/)             |
 | CustomSounds<br>`v2.2.0`              | Clementinise               | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/)                |
 | HidePlayerNames<br>`v1.0.2`           | Monkeytype                 | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)               |
+| HookGenPatcher<br>`v0.0.5`            | Evaisa                     | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/)                    |
 | LateCompany<br>`v1.0.6`               | anormaltwig                | [Thunderstore](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)                  |
 | LC API<br>`v2.1.2`                    | 2018                       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                              |
 | LCSoundTool<br>`v1.4.0`               | noo00ob                    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/)                       |
 | LethalClunk<br>`v1.1.1`               | PanHouse                   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/PanHouse/LethalClunk/)                     |
+| LethalLib<br>`v0.10.1`                | Evaisa                     | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)                         |
 | LethalPresents<br>`v1.0.3`            | Azim                       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)                      |
 | LethalRadiation<br>`v1.1.1`           | gamehog44                  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/gamehog44/LethalRadiation/)                |
 | MaskedEnemyOverhaul<br>`v2.1.0`       | HomelessGinger             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)       |
