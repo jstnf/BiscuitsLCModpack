@@ -40,11 +40,12 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | Mimics<br>`v2.3.2`                       | x753                       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                              |
 | ModelReplacementAPI<br>`v2.3.6`          | BunyaPineTree              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/BunyaPineTree/ModelReplacementAPI/)        |
 | MolesterLootBug<br>`v1.1.0`              | Caseuhdeeyuh               | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Caseuhdeeyuh/MolesterLootBug/)             |
-| More Emotes<br>`v1.2.2`                  | Sligili                    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)                      |
+| More Emotes<br>`v1.3.2`                  | Sligili                    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)                      |
 | MoreCompany<br>`v1.7.2`                  | notnotnotswipez            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)              |
 | MoreScreams<br>`v1.0.3`                  | egeadam                    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/egeadam/MoreScreams/)                      |
 | PushCompany<br>`v1.2.0`                  | Midge                      | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)                        |
 | RouteRandom<br>`v1.2.2`                  | stormytuna                 | [Thunderstore](https://thunderstore.io/c/lethal-company/p/stormytuna/RouteRandom/)                   |
+| Runtime Netcode Patcher`v0.2.5`          | Ozone                      | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/)            |
 | ShipLoot<br>`v1.0.0`                     | tinyhoot                   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)                        |
 | ShirtlessSuit<br>`v1.0.0`                | TeamClark                  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/TeamClark/ShirtlessSuit/)                  |
 | Skinwalkers<br>`v2.0.1`                  | RugbugRedfern              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)                |
