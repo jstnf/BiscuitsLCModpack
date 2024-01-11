@@ -52,4 +52,4 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | Teleporter Cooldown Reset<br>`v1.0.1`    | Rattenbonkers              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rattenbonkers/Teleporter_Cooldown_Reset/)  |
 | TerminalApi<br>`v1.5.0`                  | NotAtomicBomb              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)                |
 | ThiccCompanyModelReplacement<br>`v1.1.1` | FoxGod                     | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FoxGod/ThiccCompanyModelReplacement/)      |
-| YippeeMod<br>`v1.2.2`                    | sunnobunno                 | [Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)                     |
+| YippeeMod<br>`v1.2.3`                    | sunnobunno                 | [Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)                     |
