@@ -48,7 +48,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | Runtime Netcode Patcher<br>`v0.2.5`      | Ozone                      | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/)            |
 | ShipLoot<br>`v1.0.0`                     | tinyhoot                   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)                        |
 | ShirtlessSuit<br>`v1.0.0`                | TeamClark                  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/TeamClark/ShirtlessSuit/)                  |
-| Skinwalkers<br>`v2.0.1`                  | RugbugRedfern              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)                |
+| Skinwalkers<br>`v2.0.6`                  | RugbugRedfern              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)                |
 | Teleporter Cooldown Reset<br>`v1.0.1`    | Rattenbonkers              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rattenbonkers/Teleporter_Cooldown_Reset/)  |
 | TerminalApi<br>`v1.5.0`                  | NotAtomicBomb              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)                |
 | ThiccCompanyModelReplacement<br>`v1.1.1` | FoxGod                     | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FoxGod/ThiccCompanyModelReplacement/)      |
