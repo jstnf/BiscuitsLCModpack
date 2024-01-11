@@ -28,7 +28,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | Dont Touch Me<br>`v1.2.1`                | Kittenji                   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Kittenji/Dont_Touch_Me/)                   |
 | HidePlayerNames<br>`v1.0.2`              | Monkeytype                 | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)               |
 | HookGenPatcher<br>`v0.0.5`               | Evaisa                     | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/)                    |
-| IsThisTheWayICame<br>`v1.0.2`            | Electric131                | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Electric131/IsThisTheWayICame/)            |
+| IsThisTheWayICame<br>`v1.1.4`            | Electric131                | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Electric131/IsThisTheWayICame/)            |
 | LateCompany<br>`v1.0.10`                 | anormaltwig                | [Thunderstore](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)                  |
 | LCSoundTool<br>`v1.4.0`                  | noo00ob                    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/)                       |
 | LethalClunk<br>`v1.1.1`                  | PanHouse                   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/PanHouse/LethalClunk/)                     |
