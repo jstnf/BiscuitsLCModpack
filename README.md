@@ -41,7 +41,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | ModelReplacementAPI<br>`v2.3.6`          | BunyaPineTree              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/BunyaPineTree/ModelReplacementAPI/)        |
 | MolesterLootBug<br>`v1.1.0`              | Caseuhdeeyuh               | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Caseuhdeeyuh/MolesterLootBug/)             |
 | More Emotes<br>`v1.3.2`                  | Sligili                    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)                      |
-| MoreCompany<br>`v1.7.2`                  | notnotnotswipez            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)              |
+| MoreCompany<br>`v1.7.4`                  | notnotnotswipez            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)              |
 | MoreScreams<br>`v1.0.3`                  | egeadam                    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/egeadam/MoreScreams/)                      |
 | PushCompany<br>`v1.2.0`                  | Midge                      | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)                        |
 | RouteRandom<br>`v1.2.2`                  | stormytuna                 | [Thunderstore](https://thunderstore.io/c/lethal-company/p/stormytuna/RouteRandom/)                   |
