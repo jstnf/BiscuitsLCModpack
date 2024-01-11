@@ -38,7 +38,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | LethalRadiation<br>`v1.2.1`              | gamehog44                  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/gamehog44/LethalRadiation/)                |
 | MaskedEnemyOverhaul<br>`v2.4.1`          | HomelessGinger             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)       |
 | Mimics<br>`v2.3.2`                       | x753                       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                              |
-| ModelReplacementAPI<br>`v2.3.1`          | BunyaPineTree              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/BunyaPineTree/ModelReplacementAPI/)        |
+| ModelReplacementAPI<br>`v2.3.6`          | BunyaPineTree              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/BunyaPineTree/ModelReplacementAPI/)        |
 | MolesterLootBug<br>`v1.1.0`              | Caseuhdeeyuh               | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Caseuhdeeyuh/MolesterLootBug/)             |
 | More Emotes<br>`v1.2.2`                  | Sligili                    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)                      |
 | MoreCompany<br>`v1.7.2`                  | notnotnotswipez            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)              |
