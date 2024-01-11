@@ -34,7 +34,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | LethalClunk<br>`v1.1.1`                  | PanHouse                   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/PanHouse/LethalClunk/)                     |
 | LethalDoors<br>`v1.0.3`                  | saint_kendrick             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/saint_kendrick/Lethal_Doors/)              |
 | LethalLib<br>`v0.11.1`                   | Evaisa                     | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)                         |
-| LethalPresents<br>`v1.0.3`               | Azim                       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)                      |
+| LethalPresents<br>`v1.0.4`               | Azim                       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)                      |
 | LethalRadiation<br>`v1.1.1`              | gamehog44                  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/gamehog44/LethalRadiation/)                |
 | MaskedEnemyOverhaul<br>`v2.1.0`          | HomelessGinger             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)       |
 | Mimics<br>`v2.3.2`                       | x753                       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                              |
