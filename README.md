@@ -16,7 +16,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | Mod                                      | Author                     | Link                                                                                                 |
 |------------------------------------------|----------------------------|------------------------------------------------------------------------------------------------------|
 | AdditionalSuits<br>`v1.1.3`              | AlexCodesGames             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/)           |
-| AlwaysHearActiveWalkies<br>`v1.4.3`      | Suskitech                  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)        |
+| AlwaysHearActiveWalkies<br>`v1.4.4`      | Suskitech                  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)        |
 | AlwaysPickup<br>`v1.2.0`                 | NutNutty                   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/NutNutty/AlwaysPickup/)                    |
 | Backrooms<br>`v0.1.3`                    | Backrooms                  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)                      |
 | BetterLethality<br>`v1.0.1`              | VZP_Mods                   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/VZP_Mods/BetterLethality/)                 |
