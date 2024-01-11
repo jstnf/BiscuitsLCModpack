@@ -5,7 +5,7 @@
 
 This is a modpack for Lethal Company made for myself and my friends to play. The modpack adds popular mods as well as mods chosen from our own tastes. The goal of the modpack is to make the game more fun and interesting by adding cool game mechanics and other quality of life changes without either completely breaking the game's immersion or adding unfair "cheese".
 
-Currently, the modpack is compatible with Lethal Company `v45` and requires [BepInEx](https://github.com/BepInEx/BepInEx).
+Currently, the modpack is compatible with Lethal Company `v49` and requires [BepInEx](https://github.com/BepInEx/BepInEx).
 
 ### Installation
 Backup and delete the existing contents of the `BepInEx` folder located in your Lethal Company installation. Keep the `core` folder and drop in the contents from this repository.
