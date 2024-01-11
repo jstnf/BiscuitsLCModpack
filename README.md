@@ -36,7 +36,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | LethalLib<br>`v0.11.1`                   | Evaisa                     | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)                         |
 | LethalPresents<br>`v1.0.4`               | Azim                       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)                      |
 | LethalRadiation<br>`v1.2.1`              | gamehog44                  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/gamehog44/LethalRadiation/)                |
-| MaskedEnemyOverhaul<br>`v2.1.0`          | HomelessGinger             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)       |
+| MaskedEnemyOverhaul<br>`v2.4.1`          | HomelessGinger             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)       |
 | Mimics<br>`v2.3.2`                       | x753                       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                              |
 | ModelReplacementAPI<br>`v2.3.1`          | BunyaPineTree              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/BunyaPineTree/ModelReplacementAPI/)        |
 | MolesterLootBug<br>`v1.1.0`              | Caseuhdeeyuh               | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Caseuhdeeyuh/MolesterLootBug/)             |
