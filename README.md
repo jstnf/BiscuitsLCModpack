@@ -26,7 +26,8 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | Library  | DetourContext Dispose Fix<br>`v1.0.3` | Hamunii             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Hamunii/DetourContext_Dispose_Fix/) |
 | Gameplay | Dont Touch Me<br>`v1.2.4`             | Kittenji            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Kittenji/Dont_Touch_Me/)            |
 | Gameplay | GeneralImprovements<br>`v1.4.4`       | ShaosilGaming       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) |
-| Gameplay | Herobrine<br>`1.3.4`                  | Kittenji            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Kittenji/Herobrine/)                |
+| Gameplay | Herobrine<br>`v1.3.4`                 | Kittenji            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Kittenji/Herobrine/)                |
+| Gameplay | ImmortalSnail<br>`v0.7.5`             | AmesBoys            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/AmesBoys/ImmortalSnail/)            |
 | Gameplay | LethalCasino<br>`v1.1.2`              | mrgrm7              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)               |
 | SFX      | LethalClunk<br>`v1.1.1`               | PanHouse            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/PanHouse/LethalClunk/)              |
 | Library  | LethalCompany InputUtils<br>`v0.7.7`  | Rune580             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)  |
