@@ -24,6 +24,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | Gameplay | AlwaysHearActiveWalkies<br>`v1.4.5`   | Suskitech           | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) |
 | Library  | AutoHookGenPatcher<br>`v1.0.4`        | Hamunii             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Hamunii/AutoHookGenPatcher/)        |
 | Library  | DetourContext Dispose Fix<br>`v1.0.3` | Hamunii             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Hamunii/DetourContext_Dispose_Fix/) |
+| Gameplay | Dont Touch Me<br>`v1.2.4`             | Kittenji            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Kittenji/Dont_Touch_Me/)            |
 | Gameplay | GeneralImprovements<br>`v1.4.4`       | ShaosilGaming       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) |
 | QoL      | LethalSettings<br>`v1.4.1`            | willis81808         | [Thunderstore](https://thunderstore.io/c/lethal-company/p/willis81808/LethalSettings/)        |
 | Library  | LethalNetworkAPI<br>`v3.3.1`          | xilophor            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/xilophor/LethalNetworkAPI/)         |
