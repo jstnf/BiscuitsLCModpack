@@ -28,6 +28,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | Gameplay | GeneralImprovements<br>`v1.4.4`       | ShaosilGaming       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) |
 | Gameplay | Herobrine<br>`1.3.4`                  | Kittenji            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Kittenji/Herobrine/)                |
 | Gameplay | LethalCasino<br>`v1.1.2`              | mrgrm7              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)               |
+| SFX      | LethalClunk<br>`v1.1.1`               | PanHouse            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/PanHouse/LethalClunk/)               |
 | Library  | LethalLib<br>`v0.16.1`                | Evaisa              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)                  |
 | Gameplay | LethalRadiation<br>`v1.2.2`           | gamehog44           | [Thunderstore](https://thunderstore.io/c/lethal-company/p/gamehog44/LethalRadiation/)         |
 | QoL      | LethalSettings<br>`v1.4.1`            | willis81808         | [Thunderstore](https://thunderstore.io/c/lethal-company/p/willis81808/LethalSettings/)        |
