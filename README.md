@@ -19,8 +19,11 @@ the `core` folder and drop in the contents from this repository.
 
 Below is a table containing every mod, version, and a link to install any mod yourself.
 
-| Type     | Mod                                   | Author          | Link                                                                                          |
-|----------|---------------------------------------|-----------------|-----------------------------------------------------------------------------------------------|
-| Library  | DetourContext Dispose Fix<br>`v1.0.3` | Hamunii         | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Hamunii/DetourContext_Dispose_Fix/) |
-| QoL      | LethalSettings<br>`v1.4.1`            | willis81808     | [Thunderstore](https://thunderstore.io/c/lethal-company/p/willis81808/LethalSettings/)        |
-| Gameplay | MoreCompany<br>`v1.10.2`              | notnotnotswipez | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)       |
+| Type     | Mod                                   | Author              | Link                                                                                          |
+|----------|---------------------------------------|---------------------|-----------------------------------------------------------------------------------------------|
+| Library  | AutoHookGenPatcher<br>`v1.0.4`        | Hamunii             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Hamunii/AutoHookGenPatcher/)        |
+| Library  | DetourContext Dispose Fix<br>`v1.0.3` | Hamunii             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Hamunii/DetourContext_Dispose_Fix/) |
+| QoL      | LethalSettings<br>`v1.4.1`            | willis81808         | [Thunderstore](https://thunderstore.io/c/lethal-company/p/willis81808/LethalSettings/)        |
+| Gameplay | MoreCompany<br>`v1.10.2`              | notnotnotswipez     | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)       |
+| Library  | NAudio<br>`v2.2.2`                    | Bobbie / Mark Heath | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Bobbie/NAudio/)                     |
+| Library  | NAudio.Lame<br>`v2.1.1`               | Bobbie / qwbarch    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/qwbarch/NAudioLame/)                |
