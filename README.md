@@ -21,6 +21,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 
 | Type     | Mod                                   | Author              | Link                                                                                          |
 |----------|---------------------------------------|---------------------|-----------------------------------------------------------------------------------------------|
+| Gameplay | AlwaysHearActiveWalkies<br>`v1.4.5`   | Suskitech           | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) |
 | Library  | AutoHookGenPatcher<br>`v1.0.4`        | Hamunii             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Hamunii/AutoHookGenPatcher/)        |
 | Library  | DetourContext Dispose Fix<br>`v1.0.3` | Hamunii             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Hamunii/DetourContext_Dispose_Fix/) |
 | Gameplay | GeneralImprovements<br>`v1.4.4`       | ShaosilGaming       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) |
@@ -33,4 +34,5 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | Library  | NAudio.Lame<br>`v2.1.1`               | Bobbie / qwbarch    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/qwbarch/NAudioLame/)                |
 | Gameplay | NeedyCats<br>`v1.2.2`                 | Jordo               | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/)                   |
 | Library  | OdinSerializer<br>`v2022.11.9`        | Lordfirespeed       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Lordfirespeed/OdinSerializer/)      |
+| Gameplay | StarlancerAIFix<br>`v3.8.4`           | AudioKnight         | [Thunderstore](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/)       |
 | Gameplay | Zombies<br>`v0.3.10`                  | Synaxin             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Synaxin/Zombies/)                   |
