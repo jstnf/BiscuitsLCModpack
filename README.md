@@ -35,6 +35,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | Library  | NAudio.Lame<br>`v2.1.1`               | Bobbie / qwbarch    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/qwbarch/NAudioLame/)                |
 | Gameplay | NeedyCats<br>`v1.2.2`                 | Jordo               | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/)                   |
 | Library  | OdinSerializer<br>`v2022.11.9`        | Lordfirespeed       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Lordfirespeed/OdinSerializer/)      |
+| Gameplay | RollingGiant<br>`v2.6.0`              | NomnomAB            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/NomnomAB/RollingGiant/)             |
 | Gameplay | StarlancerAIFix<br>`v3.8.4`           | AudioKnight         | [Thunderstore](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/)       |
 | Cosmetic | TooManyEmotes<br>`v2.2.8`             | FlipMods            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)            |
 | SFX      | YippeeMod<br>`v1.2.4`                 | sunnobunno          | [Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)              |
