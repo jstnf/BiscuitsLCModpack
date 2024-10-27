@@ -49,6 +49,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | Gameplay | OuijaBoard<br>`v1.5.3`                | Electric131         | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Electric131/OuijaBoard/)            |
 | Gameplay | RollingGiant<br>`v2.6.0`              | NomnomAB            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/NomnomAB/RollingGiant/)             |
 | Gameplay | Scopophobia<br>`v1.1.5`               | jaspercreations     | [Thunderstore](https://thunderstore.io/c/lethal-company/p/jaspercreations/Scopophobia/)       |
+| Gameplay | SirenHead<br>`v2.0.3`                 | Ccode_lang          | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Ccode_lang/SirenHead/)              |
 | Gameplay | SnatchinBracken<br>`v1.5.1`           | readthisifbad       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/readthisifbad/SnatchinBracken/)     |
 | Gameplay | StarlancerAIFix<br>`v3.8.4`           | AudioKnight         | [Thunderstore](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/)       |
 | Cosmetic | TooManyEmotes<br>`v2.2.8`             | FlipMods            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)            |
