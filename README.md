@@ -26,6 +26,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | Library  | DetourContext Dispose Fix<br>`v1.0.3` | Hamunii             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Hamunii/DetourContext_Dispose_Fix/) |
 | Gameplay | Dont Touch Me<br>`v1.2.4`             | Kittenji            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Kittenji/Dont_Touch_Me/)            |
 | Gameplay | GeneralImprovements<br>`v1.4.4`       | ShaosilGaming       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) |
+| Gameplay | Herobrine<br>`1.3.4`                  | Kittenji            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Kittenji/Herobrine/)                |
 | Gameplay | LethalCasino<br>`v1.1.2`              | mrgrm7              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)               |
 | QoL      | LethalSettings<br>`v1.4.1`            | willis81808         | [Thunderstore](https://thunderstore.io/c/lethal-company/p/willis81808/LethalSettings/)        |
 | Library  | LethalNetworkAPI<br>`v3.3.1`          | xilophor            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/xilophor/LethalNetworkAPI/)         |
@@ -34,6 +35,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | Gameplay | MoreCompany<br>`v1.10.2`              | notnotnotswipez     | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)       |
 | Library  | NAudio<br>`v2.2.2`                    | Bobbie / Mark Heath | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Bobbie/NAudio/)                     |
 | Library  | NAudio.Lame<br>`v2.1.1`               | Bobbie / qwbarch    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/qwbarch/NAudioLame/)                |
+| Library  | NavMeshInCompany<br>`v1.0.3`          | Kittenji            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Kittenji/NavMeshInCompany/)         |
 | Gameplay | NeedyCats<br>`v1.2.2`                 | Jordo               | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/)                   |
 | Library  | OdinSerializer<br>`v2022.11.9`        | Lordfirespeed       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Lordfirespeed/OdinSerializer/)      |
 | Gameplay | RollingGiant<br>`v2.6.0`              | NomnomAB            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/NomnomAB/RollingGiant/)             |
