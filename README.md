@@ -25,9 +25,10 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | Library  | AutoHookGenPatcher<br>`v1.0.4`        | Hamunii             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Hamunii/AutoHookGenPatcher/)        |
 | Library  | DetourContext Dispose Fix<br>`v1.0.3` | Hamunii             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Hamunii/DetourContext_Dispose_Fix/) |
 | Gameplay | Dont Touch Me<br>`v1.2.4`             | Kittenji            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Kittenji/Dont_Touch_Me/)            |
-| Gameplay | FacelessStalker<br>`v1.1.9`           | Sparble             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/)            |
+| Gameplay | FacelessStalker<br>`v1.1.9`           | Sparble             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/)           |
 | Gameplay | GeneralImprovements<br>`v1.4.4`       | ShaosilGaming       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) |
 | Gameplay | Herobrine<br>`v1.3.4`                 | Kittenji            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Kittenji/Herobrine/)                |
+| SFX      | HornMoan<br>`v2.1.0`                  | MetalPipeSFX        | [Thunderstore](https://thunderstore.io/c/lethal-company/p/MetalPipeSFX/HornMoan/)             |
 | Gameplay | ImmortalSnail<br>`v0.7.5`             | AmesBoys            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/AmesBoys/ImmortalSnail/)            |
 | Gameplay | LethalCasino<br>`v1.1.2`              | mrgrm7              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)               |
 | SFX      | LethalClunk<br>`v1.1.1`               | PanHouse            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/PanHouse/LethalClunk/)              |
