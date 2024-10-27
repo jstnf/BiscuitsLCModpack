@@ -28,6 +28,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | Gameplay | GeneralImprovements<br>`v1.4.4`       | ShaosilGaming       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) |
 | Gameplay | Herobrine<br>`1.3.4`                  | Kittenji            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Kittenji/Herobrine/)                |
 | Gameplay | LethalCasino<br>`v1.1.2`              | mrgrm7              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)               |
+| Library  | LethalLib<br>`v0.16.1`                | Evaisa              | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)                  |
 | Gameplay | LethalRadiation<br>`v1.2.2`           | gamehog44           | [Thunderstore](https://thunderstore.io/c/lethal-company/p/gamehog44/LethalRadiation/)         |
 | QoL      | LethalSettings<br>`v1.4.1`            | willis81808         | [Thunderstore](https://thunderstore.io/c/lethal-company/p/willis81808/LethalSettings/)        |
 | Library  | LethalNetworkAPI<br>`v3.3.1`          | xilophor            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/xilophor/LethalNetworkAPI/)         |
@@ -40,6 +41,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | Gameplay | NeedyCats<br>`v1.2.2`                 | Jordo               | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/)                   |
 | Library  | OdinSerializer<br>`v2022.11.9`        | Lordfirespeed       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Lordfirespeed/OdinSerializer/)      |
 | Gameplay | RollingGiant<br>`v2.6.0`              | NomnomAB            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/NomnomAB/RollingGiant/)             |
+| Gameplay | Scopophobia<br>`v1.1.5`               | jaspercreations     | [Thunderstore](https://thunderstore.io/c/lethal-company/p/jaspercreations/Scopophobia/)       |
 | Gameplay | SnatchinBracken<br>`v1.5.1`           | readthisifbad       | [Thunderstore](https://thunderstore.io/c/lethal-company/p/readthisifbad/SnatchinBracken/)     |
 | Gameplay | StarlancerAIFix<br>`v3.8.4`           | AudioKnight         | [Thunderstore](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/)       |
 | Cosmetic | TooManyEmotes<br>`v2.2.8`             | FlipMods            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)            |
