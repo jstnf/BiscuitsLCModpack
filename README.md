@@ -37,6 +37,7 @@ Below is a table containing every mod, version, and a link to install any mod yo
 | Gameplay | Mirage<br>`v1.11.1`                   | qwbarch             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)                    |
 | Library  | MirageCore<br>`v1.0.1`                | qwbarch             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageCore/)                |
 | Gameplay | MoreCompany<br>`v1.10.2`              | notnotnotswipez     | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)       |
+| Gameplay | MoreScreams<br>`v1.0.3`               | egeadam             | [Thunderstore](https://thunderstore.io/c/lethal-company/p/egeadam/MoreScreams/)               |
 | Library  | NAudio<br>`v2.2.2`                    | Bobbie / Mark Heath | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Bobbie/NAudio/)                     |
 | Library  | NAudio.Lame<br>`v2.1.1`               | Bobbie / qwbarch    | [Thunderstore](https://thunderstore.io/c/lethal-company/p/qwbarch/NAudioLame/)                |
 | Library  | NavMeshInCompany<br>`v1.0.3`          | Kittenji            | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Kittenji/NavMeshInCompany/)         |
