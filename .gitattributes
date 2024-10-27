@@ -1,1 +1,1 @@
-*.lethalcasinoassets filter=lfs diff=lfs merge=lfs -text
+BepInEx/plugins/lethalcasinoassets filter=lfs diff=lfs merge=lfs -text
